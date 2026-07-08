@@ -1,6 +1,4 @@
-<img width="960" height="540" alt="Screenshot 2026-07-08 184055" src="https://github.com/user-attachments/assets/254c3d25-e79d-4e6b-9da2-cb883d05a47c" />
-<img width="960" height="540" alt="Screenshot 2026-07-08 184035" src="https://github.com/user-attachments/assets/2c75b3b2-1622-419c-8c84-365fbc699d17" />
-<img width="960" height="540" alt="Screenshot 2026-07-08 184018" src="https://github.com/user-attachments/assets/f5f6160b-0269-49dd-85a4-152230e0c75d" />
+
 # 🔋 Battery Health Prediction Platform
 
 > **An end-to-end AI-powered Battery Health Prediction Platform built using Deep Learning (LSTM + GRU), Streamlit, TensorFlow, and Plotly for predicting battery capacity, State of Health (SOH), Remaining Useful Life (RUL), and future capacity degradation.**
@@ -298,4 +296,7 @@ If you found this project useful,
 Fork it
 
 Share it with others
+<img width="960" height="540" alt="Screenshot 2026-07-08 184055" src="https://github.com/user-attachments/assets/254c3d25-e79d-4e6b-9da2-cb883d05a47c" />
+<img width="960" height="540" alt="Screenshot 2026-07-08 184035" src="https://github.com/user-attachments/assets/2c75b3b2-1622-419c-8c84-365fbc699d17" />
+<img width="960" height="540" alt="Screenshot 2026-07-08 184018" src="https://github.com/user-attachments/assets/f5f6160b-0269-49dd-85a4-152230e0c75d" />
 
