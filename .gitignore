@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+saved_models/
+results/
+
+.DS_Store
+notebooks/
+output.png
